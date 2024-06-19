@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Tutorial Intro
-# Khaled Maatouk!!
+
 Let's discover **Docusaurus in less than 5 minutes**.
 
 ## Getting Started
@@ -47,3 +47,5 @@ The `npm run start` command builds your website locally and serves it through a 
 Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
 
 # Khaled Maatouk !!
+
+# Tesing........
