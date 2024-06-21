@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'HackBytes',
   tagline: '" Unlocking Knowledge, Byte by Bye "',
-  favicon: 'img/dr.png',
+  favicon: 'img/SideBarLogo.png',
 
   // Set the production url of your site here
   url:  'https://docusaurus-2.netlify.app',
