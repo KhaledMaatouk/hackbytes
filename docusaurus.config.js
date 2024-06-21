@@ -8,9 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'HackBytes',
+  tagline: '" Unlocking Knowledge, Byte by Bye "',
+  favicon: 'img/dr.png',
 
   // Set the production url of your site here
   url:  'https://docusaurus-2.netlify.app',
@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'fr', 'tr', 'de'],
   },
 
   presets: [
